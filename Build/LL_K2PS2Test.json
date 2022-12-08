@@ -1,7 +1,7 @@
 {
 "companyName": "Renegadeware",
 "productName": "LL_K2PS2",
-"productVersion": "1.1.2",
+"productVersion": "1.1.3",
 "dataUrl": "LL_K2PS2Test.data.unityweb",
 "wasmCodeUrl": "LL_K2PS2Test.wasm.code.unityweb",
 "wasmFrameworkUrl": "LL_K2PS2Test.wasm.framework.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.0f1"
+"unityVersion": "2019.4.40f1"
 }
